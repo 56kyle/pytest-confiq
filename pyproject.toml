@@ -1,6 +1,6 @@
 [project]
 name = "pytest-confiq"
-version = "0.0.0"
+version = "0.0.1"
 description = "pytest-confiq"
 authors = [
     { name = "Kyle Oliver", email = "56kyleoliver@gmail.com" },
