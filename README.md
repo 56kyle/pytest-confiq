@@ -1,6 +1,6 @@
 # pytest-confiq
 
-pytest_confiq
+Pytest plugin for use with the confiq package
 
 ---
 
